@@ -13,7 +13,6 @@ typedef struct DATE {
 
 int main(int argc, char* argv[])
 {
-
 	int inputArgs = 0;
 	printf("Список доступных ключей:\n");
 	printf("1 - сортировка из файла от меньшего к большему, результат "
